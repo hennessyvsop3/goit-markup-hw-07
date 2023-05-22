@@ -163,8 +163,9 @@
 <path fill="none" stroke="#404bbf" style="stroke: var(--color1, #404bbf)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2" d="M4 1h24c1.657 0 3 1.343 3 3v24c0 1.657-1.343 3-3 3h-24c-1.657 0-3-1.343-3-3v-24c0-1.657 1.343-3 3-3z"></path>
 </symbol>
 
+<symbol id="icon-burger" viewBox="0 0 47 32"><path d="M1.96-.105a2.182 2.182 0 0 0 0 4.364h42.966a2.182 2.182 0 0 0 0-4.364zm0 13.54a2.182 2.182 0 0 0 0 4.364h42.966a2.182 2.182 0 0 0 0-4.364zm0 13.537a2.182 2.182 0 0 0 0 4.364h42.966a2.182 2.182 0 0 0 0-4.364z"/></symbol>
+
 
 </defs>
 </svg>
-
 

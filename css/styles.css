@@ -67,9 +67,7 @@ body {
   padding: 0 15px;
 }
 .header-container {
-  margin-left: auto;
-  margin-right: auto;
-  width: 1158px;
+  width: 100%;
   display: flex;
 }
 .main-header {
@@ -985,3 +983,37 @@ textarea {
 .footer-third-part {
   margin-left: 80px;
 }
+
+
+/* MOBILE */
+
+
+.container {
+  width: 100%;
+  padding: 0px 16px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media  screen and (min-width: 428px) {
+  .container {
+    max-width: 767px;
+  }
+
+
+}
+
+@media  screen and (min-width: 768px) {
+  .container {
+    max-width: 1157px;
+  }
+}
+
+@media  screen and (min-width: 1158px) {
+  .container {
+    max-width: 1158px;
+    padding: 0 15px;
+  }
+}
+
+/* HEADER */
