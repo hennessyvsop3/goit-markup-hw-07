@@ -165,7 +165,20 @@
 
 <symbol id="icon-burger" viewBox="0 0 47 32"><path d="M1.96-.105a2.182 2.182 0 0 0 0 4.364h42.966a2.182 2.182 0 0 0 0-4.364zm0 13.54a2.182 2.182 0 0 0 0 4.364h42.966a2.182 2.182 0 0 0 0-4.364zm0 13.537a2.182 2.182 0 0 0 0 4.364h42.966a2.182 2.182 0 0 0 0-4.364z"/></symbol>
 
-
+<symbol id="mobile-close-btn" viewBox="0 0 24 24">
+    <path d="M16 8.80571L15.1943 8L12 11.1943L8.80571 8L8 8.80571L11.1943 12L8 15.1943L8.80571 16L12 12.8057L15.1943 16L16 15.1943L12.8057 12L16 8.80571Z" fill="#2E2F42"/>
+</symbol>
 </defs>
 </svg>
 
+<!-- <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle opacity="0.1" cx="12" cy="12" r="11.5" fill="#E7E9FC" stroke="#2E2F42"/>
+<g clip-path="url(#clip0_297053_2165)">
+
+</g>
+<defs>
+<clipPath id="clip0_297053_2165">
+<rect width="8" height="8" fill="white" transform="translate(8 8)"/>
+</clipPath>
+</defs>
+</svg> -->
