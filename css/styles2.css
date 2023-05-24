@@ -1098,6 +1098,12 @@ textarea {
     padding-bottom: 24px;
     gap: 40px;
   }
+  .modal {
+    padding: 72px 24px 24px;
+  }
+  .customers-section {
+    padding: 120px 0px;
+  }
 
   .contact-item:not(:last-child) {
     margin-bottom: 0;
