@@ -534,11 +534,11 @@ footer {
 .modal {
   width: 100%;
   max-width: 392px;
-  height: 584px;
+  min-height: 584px;
   position: absolute;
   top: 50%;
   left: 50%;
-  padding: 72px 16px 16px;
+  padding: 72px 16px 75px;
   transform: translate(-50%, -50%);
 
   background-color: var(--modal-bg-color);
@@ -605,7 +605,7 @@ footer {
   border: 1px solid rgba(46, 47, 66, 0.4);
   background-color: transparent;
   height: 40px;
-  width: 360px;
+  /* width: 360px; */
   border-radius: 4px;
   padding: 11px 34px;
 }
@@ -622,7 +622,7 @@ footer {
   border: 1px solid rgba(46, 47, 66, 0.4);
   background-color: transparent;
   height: 40px;
-  width: 360px;
+  /* width: 360px; */
   border-radius: 4px;
   padding: 11px 16px;
 }
